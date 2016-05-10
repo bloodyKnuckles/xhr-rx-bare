@@ -1,0 +1,24 @@
+{
+  "name": "xhr-rx-bare",
+  "version": "0.1.0",
+  "description": "Bare bones Rx-based XHR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/xhr-rx-bare.git"
+  },
+  "keywords": [
+    "XHR",
+    "Rx",
+    "RxJS"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/xhr-rx-bare/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/xhr-rx-bare#readme"
+}
