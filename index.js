@@ -1,3 +1,5 @@
+var Rx = require('rx-lite')
+
 module.exports = function (url) {
   var xhr = new XMLHttpRequest()
   xhr.open('GET', url, true)

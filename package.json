@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bloodyKnuckles/xhr-rx-bare/issues"
   },
-  "homepage": "https://github.com/bloodyKnuckles/xhr-rx-bare#readme"
+  "homepage": "https://github.com/bloodyKnuckles/xhr-rx-bare#readme",
+  "dependencies": {
+    "rx-lite": "^4.0.8"
+  }
 }
